@@ -1,0 +1,18 @@
+{
+  "name": "api_dolar_bcv",
+  "version": "1.0.0",
+  "description": "api para saber el valor del dolar diario de venezuela desde el bcv y otros monitores",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sequeira95",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.18.2"
+  },
+  "devDependencies": {
+    "playwright": "^1.37.0"
+  }
+}
